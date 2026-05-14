@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\pi_club_deportivo\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\pi_club_deportivo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\pi_club_deportivo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\frmprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frmprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\frminscripcion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frminscripcion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\frminscripcion.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frminscripcion.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\datos\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\datos\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\entidades\\e_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\entidades\\e_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\datos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\datos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|c:\\users\\romi_\\source\\repos\\pi_club_deportivo\\pi_club_deportivo\\pi_club_deportivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3320A553-B693-4356-808E-200307DE570D}|PI_Club_Deportivo\\PI_Club_Deportivo.csproj|solutionrelative:pi_club_deportivo\\pi_club_deportivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmLogin.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmLogin.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmLogin.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T21:58:38.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Properties\\Resources.resx",
+              "RelativeToolTip": "PI_Club_Deportivo\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-14T07:42:52.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmPrincipal.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmPrincipal.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:31:06.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Datos\\Conexion.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\Datos\\Conexion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:14:56.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Datos\\Clientes.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\Datos\\Clientes.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Datos\\Clientes.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\Datos\\Clientes.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:11:04.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "E_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Entidades\\E_Cliente.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\Entidades\\E_Cliente.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Entidades\\E_Cliente.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\Entidades\\E_Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:56:01.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Datos\\Usuarios.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\Datos\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Datos\\Usuarios.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\Datos\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:55:04.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmInscripcion.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmInscripcion.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmInscripcion.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmInscripcion.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T03:00:28.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmInscripcion.resx",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmInscripcion.resx",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmInscripcion.resx",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmInscripcion.resx",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmInscripcion.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-14T02:05:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmPrincipal.Designer.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmPrincipal.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T02:05:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmPrincipal.resx",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmPrincipal.resx",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmPrincipal.resx",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmPrincipal.resx",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmPrincipal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-14T02:05:08.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PI_Club_Deportivo.csproj",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\PI_Club_Deportivo.csproj",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\PI_Club_Deportivo.csproj",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\PI_Club_Deportivo.csproj",
+              "RelativeToolTip": "PI_Club_Deportivo\\PI_Club_Deportivo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T02:05:07.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmInscripcion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmInscripcion.Designer.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmInscripcion.Designer.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmInscripcion.Designer.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmInscripcion.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T02:05:11.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Program.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\Program.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\Program.cs",
+              "RelativeToolTip": "PI_Club_Deportivo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:29:48.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmLogin.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T21:30:16.853Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T03:02:16.649Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInscripcion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmInscripcion.cs",
+              "RelativeDocumentMoniker": "PI_Club_Deportivo\\frmInscripcion.cs",
+              "ToolTip": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\frmInscripcion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PI_Club_Deportivo\\frmInscripcion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T02:05:11.35Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

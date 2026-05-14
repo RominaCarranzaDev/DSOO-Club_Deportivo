@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4quWx4Epc4c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romi_\\source\\repos\\PI_Club_Deportivo\\PI_Club_Deportivo\\PI_Club_Deportivo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romi_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\romi_\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\romi_\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
